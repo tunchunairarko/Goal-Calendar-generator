@@ -1,0 +1,82 @@
+[22-Feb-2018 11:22:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(142): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:22:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(142): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:22:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(144): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:23:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(144): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:23:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(141): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:25:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(141): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:25:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(141): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:26:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/app.php(141): getCalender()
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:26:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function getCalender() in /home/goalsnohassle/public_html/app.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/goalsnohassle/public_html/app.php on line 141
+[22-Feb-2018 11:27:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function getCalender() in /home/goalsnohassle/public_html/app.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/goalsnohassle/public_html/app.php on line 141
+[22-Feb-2018 11:27:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function getCalender() in /home/goalsnohassle/public_html/app.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/goalsnohassle/public_html/app.php on line 141
+[22-Feb-2018 11:28:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:73
+Stack trace:
+#0 /home/goalsnohassle/public_html/functions.php(8): getCalender('2018', '01')
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 73
+[22-Feb-2018 11:34:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:221
+Stack trace:
+#0 /home/goalsnohassle/public_html/functions.php(12): getEvents('2018-02-21')
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 221
+[22-Feb-2018 11:35:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:221
+Stack trace:
+#0 /home/goalsnohassle/public_html/functions.php(12): getEvents('2018-02-2')
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 221
+[22-Feb-2018 11:35:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:221
+Stack trace:
+#0 /home/goalsnohassle/public_html/functions.php(12): getEvents('2018-02-3')
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 221
+[22-Feb-2018 11:35:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:221
+Stack trace:
+#0 /home/goalsnohassle/public_html/functions.php(12): getEvents('2018-02-8')
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 221
+[22-Feb-2018 11:41:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/goalsnohassle/public_html/functions.php:241
+Stack trace:
+#0 /home/goalsnohassle/public_html/functions.php(16): addEvent('2018-02-28', 'wedding')
+#1 {main}
+  thrown in /home/goalsnohassle/public_html/functions.php on line 241
